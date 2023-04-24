@@ -1,0 +1,10 @@
+1	Tyger Tyger, burning bright,
+2	In the forests of the night;
+3	What immortal hand or eye,
+4	Could frame thy fearful symmetry?
+5	
+6	In what distant deeps or skies,
+7	Burnt the fire of thine eyes?
+8	On what wings dare he aspire?
+9	What the hand, dare sieze the fire?
+10	

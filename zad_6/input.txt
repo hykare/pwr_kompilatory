@@ -1,0 +1,8 @@
+#include <iostream>
+using namespace std;
+void downcase(string& text);
+map<string, int> word_frequency;
+while true
+  puts "falafel"
+  number = gets.chomp
+end
