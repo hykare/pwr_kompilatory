@@ -4,7 +4,7 @@ default: compile run
 
 compile:
 	@flex rules.l
-	@g++ lex.yy.c
+	@g++ lex.yy.c -w
 
 run:
 	@./a.out < "input.txt"
