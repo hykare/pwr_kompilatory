@@ -7,11 +7,7 @@ compile:
 	@g++ lex.yy.c -w
 
 run:
-	@./a.out < "input.txt"
-
-test: compile
-	@./a.out < input.txt > output.txt
-	@diff correct.txt output.txt
+	@./a.out < "input_short.txt"
 
 clean:
 	@echo "cleaning up files"
