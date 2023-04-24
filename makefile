@@ -1,6 +1,6 @@
 .PHONY: zad_3 zad_5 zad_6
 
-all: zad_3 zad_5 zad_6
+all: zad_3 zad_5 zad_6 ruby_tests
 
 zad_3:
 	@$(MAKE) -s -C zad_3
@@ -11,4 +11,5 @@ zad_5:
 zad_6:
 	@$(MAKE) -s -C zad_6
 
-# run rspec
+ruby_tests:
+	@rspec --format documentation
